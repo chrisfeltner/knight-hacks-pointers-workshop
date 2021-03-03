@@ -1,0 +1,34 @@
+8
+Chicken Tikki Masala
+11.99
+Tonkotsu Ramen
+11.99
+Shoyu Ramen
+11.99
+Butter Chicken
+11.99
+Lamb Korma
+11.99
+Thanksgiving Sammy
+10.05
+Cookie Monster Bubble Waffle
+7.50
+Birthday Cake Addict Bubble Waffle
+7.50
+4
+Tandoori Bowl
+3
+Chicken Tikki Masala
+Lamb Korma
+Butter Chicken
+Domu Chibi
+2
+Tonkotsu Ramen
+Shoyu Ramen
+Pom Pom Teahouse
+1
+Thanksgiving Sammy
+Jourys Ice Cream
+2
+Cookie Monster Bubble Waffle
+Birthday Cake Addict Bubble Waffle
